@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+~~Пшел вон~~**Лучше не трогать**
 Use the left arrow to go back!
